@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\STUDENTS-1212-1\\Documents\\Radoslav 9a\\Izpitvana8Mart\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED57D990-FB95-49AA-A0D2-6C9EFD5F7C95}|Izpitvana8Mart\\Izpitvana8Mart.csproj|c:\\users\\students-1212-1\\documents\\radoslav 9a\\izpitvana8mart\\izpitvana8mart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED57D990-FB95-49AA-A0D2-6C9EFD5F7C95}|Izpitvana8Mart\\Izpitvana8Mart.csproj|solutionrelative:izpitvana8mart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 331,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENTS-1212-1\\Documents\\Radoslav 9a\\Izpitvana8Mart\\Izpitvana8Mart\\Program.cs",
+              "RelativeDocumentMoniker": "Izpitvana8Mart\\Program.cs",
+              "ToolTip": "C:\\Users\\STUDENTS-1212-1\\Documents\\Radoslav 9a\\Izpitvana8Mart\\Izpitvana8Mart\\Program.cs",
+              "RelativeToolTip": "Izpitvana8Mart\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAiwAwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T10:11:02.166Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
